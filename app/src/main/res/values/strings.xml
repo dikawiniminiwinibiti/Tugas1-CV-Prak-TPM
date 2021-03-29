@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Curriculum Vitae</string>
+    <string name="mahardika_rahman_rizky">MAHARDIKA RAHMAN RIZKY</string>
+    <string name="Profile">Profile</string>
+    <string name="gender_male">Gender : Male</string>
+    <string name="born_17_august_1999_yogyakarta">Born : 17 August 1999, Yogyakarta</string>
+    <string name="hobby">Hobby</string>
+    <string name="academic">Academic</string>
+    <string name="elementary_school_sd_lempuyangan_i_yogyakarta">Elementary School : SD Lempuyangan I Yogyakarta</string>
+    <string name="middle_school_mtsn_yogyakarta_i">Middle School : MTsN Yogyakarta I</string>
+    <string name="senior_high_shcool_sman_5_yogyakarta">Senior High Shcool : SMAN 5 Yogyakarta</string>
+    <string name="college_upnvyk">College : UPNVYK</string>
+    <string name="drawing_painting"><![CDATA[Drawing & Painting]]></string>
+    <string name="todo">TODO</string>
+
+</resources>
